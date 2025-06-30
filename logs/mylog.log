@@ -1,0 +1,49 @@
+2025-06-28 18:22:41,914 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 18:22:42,984 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 18:22:43,226 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 18:22:51,479 [main] ERROR testCases.TC001_RegistrationTest - Test failed
+2025-06-28 18:22:51,480 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 18:24:50,218 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 18:24:51,715 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 18:24:52,068 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 18:25:01,796 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:08:43,715 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:08:46,013 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:08:46,475 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:09:03,075 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:13:17,675 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:13:19,273 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:13:19,732 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:13:35,220 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:30:04,349 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:30:06,858 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:30:07,280 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:30:22,630 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:30:57,436 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:31:01,518 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:31:01,952 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:31:17,317 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:31:32,322 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:31:34,163 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:31:34,595 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:31:50,291 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:35:48,590 [TestNG-tests-2] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:35:49,454 [TestNG-tests-1] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:35:49,490 [TestNG-tests-3] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-28 19:35:51,078 [TestNG-tests-2] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:35:51,973 [TestNG-tests-2] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:35:52,671 [TestNG-tests-1] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:35:52,707 [TestNG-tests-3] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-28 19:35:53,431 [TestNG-tests-3] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:35:53,452 [TestNG-tests-1] INFO testCases.TC001_RegistrationTest - added email
+2025-06-28 19:36:08,699 [TestNG-tests-1] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:36:08,984 [TestNG-tests-3] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-28 19:36:09,722 [TestNG-tests-2] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-29 18:52:26,742 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-29 18:52:28,298 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-29 18:52:28,645 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-29 18:52:44,615 [main] INFO testCases.TC001_RegistrationTest - Test finished
+2025-06-29 19:34:45,930 [main] INFO testCases.TC001_RegistrationTest - ******* Started logs **********
+2025-06-29 19:34:47,439 [main] INFO testCases.TC001_RegistrationTest - Clicked on signin button
+2025-06-29 19:34:47,796 [main] INFO testCases.TC001_RegistrationTest - added email
+2025-06-29 19:35:05,091 [main] INFO testCases.TC001_RegistrationTest - Test finished
